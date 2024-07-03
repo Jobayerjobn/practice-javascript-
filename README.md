@@ -1,0 +1,1 @@
+A module is a chunk of code in an external file that performs a specific task or function. It is a separate entity within a program, allowing for modularity and code reusability. By encapsulating related code into modules, developers can organize their programs more efficiently and make them easier to maintain.
